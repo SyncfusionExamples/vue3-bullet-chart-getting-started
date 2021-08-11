@@ -1,2 +1,5 @@
-# vue3-bullet-chart-getting-started
-Learn here all about Getting Started with Syncfusion Bullet Chart in Vue application using Vue CLI.
+The sample demonstrates how to integrate the Syncfusion Bullet Chart component into a Vue 3 application using the Vue CLI. The following features are shown in this sample.
+1. Bound to data source that contains a collection of data
+2. Added title
+3. Applied ranges
+4. Enabled tooltip
